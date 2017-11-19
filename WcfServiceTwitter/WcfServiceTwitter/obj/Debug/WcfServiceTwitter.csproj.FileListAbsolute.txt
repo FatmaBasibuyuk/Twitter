@@ -1,0 +1,114 @@
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\ApplicationInsights.config
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll.config
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.pdb
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.dll
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.xml
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.dll
+C:\Users\Hüseyin\Desktop\Twitter Son\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.pdb
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.dll
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.pdb
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\ApplicationInsights.config
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll.config
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.pdb
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.dll
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.xml
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hüseyin\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\ApplicationInsights.config
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll.config
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.pdb
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.dll
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.xml
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.dll
+C:\Users\pc\Desktop\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.pdb
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\ApplicationInsights.config
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll.config
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.pdb
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.dll
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.xml
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.dll
+C:\Users\Hüseyin\Downloads\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.pdb
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\ApplicationInsights.config
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll.config
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.pdb
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.dll
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.xml
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.dll
+C:\Users\Hüseyin\Desktop\SOA DÖNEM\Twitter ortak\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.pdb
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\ApplicationInsights.config
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll.config
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.dll
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\WcfServiceTwitter.pdb
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.dll
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.Web.xml
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.dll
+C:\Users\pc\Desktop\twitter yeni\WcfServiceTwitter\WcfServiceTwitter\obj\Debug\WcfServiceTwitter.pdb
